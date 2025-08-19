@@ -1,0 +1,7 @@
+class ApiConfig {
+  // 替换为你的OpenAI API密钥
+  static const String openAiApiKey = 'sk-7431d33599d94d33bf41f476392980f9';
+  
+  // API端点
+  static const String openAiApiUrl = 'https://api.deepseek.com/chat/completions';
+}
