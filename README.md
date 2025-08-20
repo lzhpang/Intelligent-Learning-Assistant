@@ -151,7 +151,6 @@
    - Windows桌面
    - 连接的Android设备
    - Android模拟器
-   - iOS模拟器（需要Mac环境）
 
 ### 🔧 方法三：从源代码构建Android版本
 
